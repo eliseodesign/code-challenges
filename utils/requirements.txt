@@ -1,0 +1,5 @@
+# this requirements is for all scripts in utils:
+
+# for clean html 
+beautifulsoup4==4.9.3
+htmlmin==0.1.12
